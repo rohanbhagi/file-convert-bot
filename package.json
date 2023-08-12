@@ -1,0 +1,14 @@
+{
+  "name": "file-conversion-bot",
+  "version": "1.0.0",
+  "description": "The purpose of this bot is to have a fiel convertor on the go that can be accessed from yoru phone anywhere. The bot now only has Word to Pdf covnersion feature. Going forward there will be options for file conversion.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "awesome-unoconv": "^1.0.1"
+  }
+}
